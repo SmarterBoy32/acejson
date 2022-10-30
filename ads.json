@@ -1,18 +1,11 @@
 [
     {
-    "slideImage": "aHR0cHM6Ly9tcmZpeGl0c3RpcHMuY28udWsvd3AtY29udGVudC91cGxvYWRzLzIwMjIvMTAvTVJGMjAyMl9MZWljZXN0ZXJDaXR5dk1hbkNpdHkuanBn",
+    "slideImage": "aHR0cHM6Ly9tcmZpeGl0c3RpcHMuY28udWsvd3AtY29udGVudC91cGxvYWRzLzIwMjIvMTAvTVJGMjAyMl9BcnNlbmFsdk5vdHRpbmdoYW1Gb3Jlc3QuanBn",
     "slideUrl": ""
   },
   {
-    "slideImage": "aHR0cHM6Ly9tcmZpeGl0c3RpcHMuY28udWsvd3AtY29udGVudC91cGxvYWRzLzIwMjIvMTAvTVJGMjAyMl9MaXZlcnBvb2x2TGVlZHNVdGQtMTAzOHg1ODQuanBn",
+    "slideImage": "aHR0cHM6Ly9jcm93ZHdpc2RvbS5saXZlL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIyLzEwL0luQ29sbGFnZV8yMDIyMTAyNF8wMDIyNTI2NzQuanBn",
     "slideUrl": ""
-  },
-  {
-    "slideImage": "aHR0cHM6Ly93d3cuaW5zaWRlc3BvcnQuaW4vd3AtY29udGVudC91cGxvYWRzLzIwMjIvMTAvNzA4NzYxOTUtMDVhMi00MGFjLWJhYmQtM2NiOTMxMTBmMTM5LnBuZz93PTY5MA==",
-    "slideUrl": ""
-  },
-    {
-    "slideImage": "aHR0cHM6Ly9zdGF0aWMuc3RhbmRhcmQuY28udWsvMjAyMS8wOC8xNi8xNS9QTEhvdzJXYXRjaEJyaWdodG9uQ2hlbHNlYS5qcGc/d2lkdGg9MTIwMCZhdXRvPXdlYnAmcXVhbGl0eT03NQ==",
-    "slideUrl": ""
-  }
+  } 
+ 
 ]
