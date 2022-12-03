@@ -1,21 +1,20 @@
 [
- 
   {
     "leagueName": "IFdvcmxkIEN1cCA=",
-    "homeTeam": "Q2FtZXJvb24=",
-    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9DYW1lcm9vbi5wbmc=",
-    "matchTime": "TElWRSBOT1csSEQ=",
-    "awayTeam": "QnJhemls",
-    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9CcmF6aWwucG5n",
-    "streamLink": "aHR0cHM6Ly95eXB1bGwuZ2RzdGguY29tL2xpdmUvc3RyZWFtLTI4NjcyMS5tM3U4P2F1dGhfa2V5PTE2NzAwMjc1NDMtMC0wLWZjODhmZDA5ODFjMTY5NDk3ZjJiMTYwMTgzZDRmODA1"
+    "homeTeam": "TmV0aGVybGFuZHM=",
+    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9IYWxhbi5wbmc=",
+    "matchTime": "MDMtMTItMjAyMiwgOTozMCBQTQ==",
+    "awayTeam": "VVNB",
+    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9NeS5wbmc=",
+    "streamLink": ""
   },
   {
     "leagueName": "IFdvcmxkIEN1cCA=",
-    "homeTeam": "U2VyYmlh",
-    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9TZXJiaWEucG5n",
-    "matchTime": "TElWRSBOT1csSEQ=",
-    "awayTeam": "U3dpdHplcmxhbmQ=",
-    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9UaHV5c3kucG5n",
-    "streamLink": "aHR0cHM6Ly95eXB1bGwuZ2RzdGguY29tL2xpdmUvc3RyZWFtLTQxMTg4Mi5tM3U4P2F1dGhfa2V5PTE2NzAwMjc1NDMtMC0wLWQyMDFjNzg4NTc3YTIxNWFlZDU3YTIyOThhZjk1ZDFm"
+    "homeTeam": "QXJnZW50aW5h",
+    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9BcmdlbnRpbmEucG5n",
+    "matchTime": "MDQtMTItMjAyMiwgMTozMCBBTQ==",
+    "awayTeam": "QXVzdHJhbGlh",
+    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9BdXN0cmFsaWEucG5n",
+    "streamLink": ""
   }
 ]
