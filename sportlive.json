@@ -1,13 +1,11 @@
 [
- 
- 
   {
     "leagueName": "IFdvcmxkIEN1cCA=",
-    "homeTeam": "RnJhbmNl",
-    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9QaGFwLnBuZw==",
-    "matchTime": "TGl2ZSBOb3csIEhEaHR0cHM6Ly9zdGFuZGFyZC1wdWxsLnFjbGxoLmNvbS9zbS8xMDAyMV80Mjg0MjlfbGhkLm0zdTg/YXV0aF9rZXk9MTY3MTEyODU2MC0wLTAtMjA0NWY2MDNlZTA2ZGM1MzgwOGVlZDJhMGJmODM0Mjc=",
-    "awayTeam": "TW9yb2Njbw==",
-    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9Nb3JvY2NvLnBuZw==",
-    "streamLink": "aHR0cHM6Ly9zdGFuZGFyZC1wdWxsLnFjbGxoLmNvbS9zbS8xMDAyMV80Mjg0MjlfbGhkLm0zdTg/YXV0aF9rZXk9MTY3MTEyODU2MC0wLTAtMjA0NWY2MDNlZTA2ZGM1MzgwOGVlZDJhMGJmODM0Mjc="
+    "homeTeam": "QXJnZW50aW5h",
+    "homeImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9BcmdlbnRpbmEucG5n",
+    "matchTime": "TElWRSBOT1csIEhE",
+    "awayTeam": "RnJhbmNl",
+    "awayImg": "aHR0cHM6Ly9teWdvYWx0di54eXovdGVhbS9QaGFwLnBuZw==",
+    "streamLink": "dHRwczovL3N0YW5kYXJkLXB1bGwucWNsbGguY29tL3NtLzEwMDIxXzkzNjgxOV9saGQubTN1OD9hdXRoX2tleT0xNjcxNDYwMTg3LTAtMC1hNDAzNjQ1NjE1ZDE5YmUxNGNhMTY3YThiYTc2NmUxMQ=="
   }
 ]
